@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head> 
+
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0">
+<!-- x css over to independent "stylesheet" when complete -->
+
+
+<style>
+* {
+  box-sizing: border-box;
+}
+	.workbox {
+			display: flex;
+            flex-direction: column-reverse;
+			margin:3em;
+           
+}
+
+	.skillbox {
+    		display: flex;
+            flex-direction: column;
+			margin:2em;
+}
+
+.main {
+	float:center;
+    width:70%;
+    text-align:center;
+    }
+    
+.unit {
+	background-color:#a7a0c0;
+    padding:13px;
+    margin-top:10px;
+    }
+       
+      
+
+</style>
+
+
+<title> </title>
+</head>
+<body>
+<br><br><br>
+
+<div 
+
+	style=
+    	background-color:#0f9f6f;
+        text-align: center;
+        padding: 10px;
+        margin-top: 7px;
+        
+    class="ID info">
+    
+<h1> Cody M Sicher </h1>
+<h2> South Florida</h2>
+<h3> (954) 488-4741 </h3>
+</div>
+<br><br><br><br>
+
+<div style="">
+<div 
+
+	style=
+    	background-color:#2f1f6f;
+    	text-align:center;
+    	padding:16px;
+    	margin-top:7px;
+        
+    class = "main">
+    
+	<div class = "workbox" >
+    
+	<div class="unit"> 2017<br> Labor Finders </div><br>
+    
+	<div class="unit"> 2017<br> D&L </div><br>
+    
+	<div class="unit"> 2017<br> HelpDesk, Sage, CiTR!X Support</div><br>
+    
+	<div class="unit"> 2016<br> Health Aide - Emerald Elite </div><br>
+    
+	<div class="unit"> 2015<br> Assistant, Muse</div><br>
+    
+	<div class="unit"> 2015<br> Service, BeatCup </div><br>
+    
+	<div class="unit"> 2013-2014<br> Office & Event Assitant, Coordination + Post-Production - Archive Productions </div><br>
+    
+	<div class="unit"> 2013<br> Post-Production; Library Of Congress, Arizona Braille TBL </div><br>
+    
+	<div class="unit"> 2011-2012<br> 3(+)D Systems; Thielsch Engineering / 4Syte </div><br>
+    
+	<div class="unit"> 2010-2011<br> Student Services; University  </div><br>
+    
+	<div class="unit"> 2010<br> Janitorial Services; Auburn Career Center </div><br>
+    
+	<div class="unit"> 2008<br> Pacific Sunwear </div><br>
+    
+	<div class="unit"> 2006-2007<br> Fast Food Industry </div><br>
+    
+	<div></div>
+    
+    <br><br>
+    
+    <!-- conditionally provisioned for own safety -->
+    
+<div
+
+style= 
+    	text-align:center;
+    	padding:16px;
+    	margin-top:7px;
+	
+class = "skillbox" >
+
+	<div class="ARC"> American Red Cross CPR & AED Certification : Resuscitation </div><br>
+    
+    <div class="HHA"> Home Health Aide </div><br>
+    
+    <div class="PTTO"> Pro Tools, Tiers, Operator Certification</div><br><br>
+    
+    </div></div></div></div>
+    
+    <br><br><br>
+</body>
+</html>
